@@ -11,3 +11,8 @@
  Tags:         responsive-layout, mobile-first
  Text Domain:  HTML5-Reset-Child
 */
+
+/****  Add Child Theme Styles Below ********/
+body {
+	font-family: Calibri, sans-serif;
+}
